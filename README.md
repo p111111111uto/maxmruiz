@@ -5,14 +5,19 @@
 
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZ4cm5sb3JwbThlc2EzZjZseGY1ZzJzdHU1ZzlzYnMyMzlyYzlzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bnzH3tEHjdDuU/giphy.gif" width="50px"/>  More about me...</h1>
 
-```javascript
-const max = {
-  languages: [JavaScript, Python, React, HTML, CSS, Node.js, Express.js, SQL],
-  tools: [VSCode, Linux, Windows, Git, NPM, MERN, Azure],
-  skills: ['troubleshooting', 'project development', 'software/hardware', 'quick learner', 'team player'],
-  contact: {
-          github: '@maxmruiz',
-          linkedin: 'in/max-martinez1010',
-          email: 'mmfern2003@gmail.com'
-}
+```python
+def max():
+  if new:
+      print('Hello world!')
+      languages: ['JavaScript', 'Python', 'React', 'HTML, CSS, Node.js, Express.js, SQL],
+      tools: [VSCode, Linux, Windows, Git, NPM, MERN, Azure],
+      skills: ['troubleshooting', 'project development', 'software/hardware', 'quick learner', 'team player'],
+      class Contact:
+              github = '@maxmruiz',
+              linkedin = 'in/max-martinez1010',
+              email = 'mmfern2003@gmail.com'
+  else:
+    print('Bye everyone!')
+
+max()
 ```
