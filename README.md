@@ -15,7 +15,7 @@ def mar():
       class Contact:
               github = '@p111111111uto',
               linkedin = 'in/max-martinez1010',
-              email = 'mfmartinez03@pm.me
+              email = 'mfmartinez03@pm.me'
   else:
     print('Bye everyone!')
 
