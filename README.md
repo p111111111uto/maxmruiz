@@ -8,16 +8,16 @@
 ```python
 def mar():
   if new:
-      print('Hello world!')
-      languages: ['JavaScript', 'Python', 'React', 'HTML, CSS, Node.js, Express.js, SQL],
+      print(Hello world!)
+      languages: [JavaScript, Python, React, HTML, CSS, Node.js, Express.js, SQL],
       tools: [VSCode, Linux, Windows, Git, NPM, MERN, Azure],
-      skills: ['troubleshooting', 'project development', 'software/hardware', 'quick learner', 'team player'],
+      skills: [troubleshooting, project development, software/hardware, quick learner, team player],
       class Contact:
-              github = '@p111111111uto',
-              linkedin = 'in/max-martinez1010',
-              email = 'mfmartinez03@pm.me'
+              github = @p111111111uto,
+              linkedin = in/max-martinez1010,
+              email = mfmartinez03@pm.me
   else:
-    print('Bye everyone!')
+    print(Bye everyone!)
 
 max()
 ```
